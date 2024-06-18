@@ -1,6 +1,6 @@
 # Ingenuity Tests
 
-Are you really that good of a programmer? Ensure you follow all the given rules for each test.
+Test your problem-solving and programming capabilities. Ensure you follow all the given rules for each test.
 
 ## Test 1 (Lua, Luau)
 
@@ -8,11 +8,10 @@ Are you really that good of a programmer? Ensure you follow all the given rules 
 
 **Rules:**
 
-i. You are not allowed to rewrite the `print` function.
-ii. There can be nothing after the following code provided below:
+I. You are not allowed to rewrite the `print` function.
+II. There can be nothing after the following code provided below:
 
 ```lua
 a = 1
 b = 1
 print(a, b, a + b)
-```
