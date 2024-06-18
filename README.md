@@ -8,10 +8,11 @@ Are you really that good of a programmer? Ensure you follow all the given rules 
 
 **Rules:**
 
-1. You are not allowed to rewrite the `print` function.
-2. There can be nothing after the following code provided below:
+i. You are not allowed to rewrite the `print` function.
+ii. There can be nothing after the following code provided below:
 
 ```lua
 a = 1
 b = 1
 print(a, b, a + b)
+```
