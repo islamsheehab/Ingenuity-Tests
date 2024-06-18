@@ -5,10 +5,7 @@ Ensure you follow all the given rules for each tests.
 Test 1( Lua, Luau ): 
 - Goal: Provide a code on which the condole will output: -> 1 1 3
 
-- Rules: 
-*i. You are not allowed fo rewrite the print function. 
-
-*ii. There can be nothing after the following code provided below: 
+- Rules: i. You are not allowed fo rewrite the print function; ii. There can be nothing after the following code provided below: 
 
 ```lua
 a = 1
