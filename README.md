@@ -1,7 +1,9 @@
 # Ingenuity-Tests-
 Are you really that good of a programmer?
+Ensure you follow all the given rules for each tests.
 
-Test 1, ensure you allow the given rules: 
+Test 1:
+Goal: Provide a code on which the condole will output: -> 1 1 3
 
 ```lua
 -- Provide a script on which the console will output -> 1 1 3
