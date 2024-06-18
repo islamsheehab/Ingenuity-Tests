@@ -8,8 +8,8 @@ Test your problem-solving and programming capabilities. Ensure you follow all th
 
 **Rules:**
 
-I. You are not allowed to rewrite the `print` function.
-II. There can be nothing after the following code provided below:
+1. You are not allowed to rewrite the `print` function.
+2. There can be nothing after the following code provided below:
 
 ```lua
 a = 1
